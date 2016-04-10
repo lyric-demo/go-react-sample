@@ -5,7 +5,7 @@
 ## 运行范例
 
 ``` bash
-$ git clone https://github.com/LyricTian/go-react-sample.git
-$ cd go-react-sample
+$ go get -v github.com/LyricTian/go-react-sample
+$ cd $GOPATH/github.com/LyricTian/go-react-sample
 $ bee run
 ```
